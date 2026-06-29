@@ -37,6 +37,7 @@
 | [0567-permutation-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -65,8 +66,13 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
