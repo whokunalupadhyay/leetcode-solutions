@@ -89,6 +89,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
