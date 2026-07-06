@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -87,12 +88,14 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
