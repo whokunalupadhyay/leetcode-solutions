@@ -7,6 +7,7 @@
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0896-monotonic-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1288-remove-covered-intervals](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
