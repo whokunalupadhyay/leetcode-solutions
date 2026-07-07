@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
