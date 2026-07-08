@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -156,4 +157,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
