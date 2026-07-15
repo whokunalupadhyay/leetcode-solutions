@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0151-reverse-words-in-a-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -79,6 +80,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
