@@ -106,6 +106,7 @@
 | [0050-powx-n](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
