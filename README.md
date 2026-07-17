@@ -26,6 +26,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -57,6 +58,7 @@
 | [0205-isomorphic-strings](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -134,6 +137,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -188,4 +192,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
