@@ -12,6 +12,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0896-monotonic-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -48,6 +50,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -113,6 +116,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
@@ -148,6 +152,7 @@
 | [0347-top-k-frequent-elements](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -209,6 +214,7 @@
 | [0347-top-k-frequent-elements](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -219,4 +225,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
