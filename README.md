@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0136-single-number) |
 ## Number Theory
 |  |
 | ------- |
