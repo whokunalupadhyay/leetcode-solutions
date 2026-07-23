@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0136-single-number) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
