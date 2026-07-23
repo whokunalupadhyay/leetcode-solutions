@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -102,6 +103,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0443-string-compression) |
@@ -119,6 +121,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
