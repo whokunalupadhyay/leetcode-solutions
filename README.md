@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0896-monotonic-array](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -33,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -57,6 +59,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
