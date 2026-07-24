@@ -95,6 +95,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Enumeration
 |  |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -214,6 +216,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Trie
 |  |
