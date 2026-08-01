@@ -22,9 +22,6 @@ public:
                 return false;
             }
             mp[sq]++;
-            if(sq == 1){
-                return true;
-            }
             n = sq;
         }
 
