@@ -28,6 +28,6 @@ public:
             n = sq;
         }
 
-        return false;
+        return true;
     }
 };
