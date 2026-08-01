@@ -35,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
