@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0202-happy-number) |
