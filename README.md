@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -165,6 +167,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
