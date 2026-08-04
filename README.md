@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -162,6 +163,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/whokunalupadhyay/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
